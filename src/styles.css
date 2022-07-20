@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  padding: 15px;
+  margin: 3px;
+  color: white;
+  background-color: rgb(68, 151, 89);
+}
+#primary {
+  background-color: rgb(8, 95, 255);
+  border-width: 0px;
+  border-radius: 8px;
+}
+h1 {
+  color: hsl(19, 100%, 50%);
+  background-color: palegoldenrod;
+  padding: 5px;
+  margin: 40px;
+  width: 100px;
+}
+#res {
+  color: rgb(255, 2, 2);
+}
+input {
+  height: 60px;
+  font-size: 30px;
+  margin: 5px;
+  text-align: left;
+}
+#clr {
+  background-color: rgb(8, 255, 140);
+  border-width: 0px;
+  border-radius: 8px;
+}
